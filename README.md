@@ -1,8 +1,8 @@
 ✨ Medi Hospital ✨
 
-This is a web based application developed for a restaurant named PARADISE.
+This is a web based application developed for a hospital service named MEDI HOSPITAL.
 
-### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based hospital application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** - https://brave-pond-09c443c00.3.azurestaticapps.net
