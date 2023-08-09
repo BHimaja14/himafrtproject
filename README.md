@@ -1,4 +1,4 @@
-✨ Medi Hospital ✨
+## ✨ Medi Hospital ✨
 
 This is a web based application developed for a hospital service named MEDI HOSPITAL.
 
@@ -25,6 +25,7 @@ This is a web based application developed for a hospital service named MEDI HOSP
 - Interactive and responsive UI. 
 
 ## Screenshots 📸
+
 ### Home page -   
 
 ![Screenshot 2023-08-09 174127](https://github.com/BHimaja14/himafrtproject/assets/129165137/ab923ec5-b2d7-4fe9-a4bc-754db89044dd)
@@ -33,7 +34,7 @@ This is a web based application developed for a hospital service named MEDI HOSP
 
 ![Screenshot 2023-08-09 174026](https://github.com/BHimaja14/himafrtproject/assets/129165137/8cfc05f4-5af2-4203-b409-cafb6129e6f2)
 
-### Department page -
+### Departments page -
 
 ![Screenshot 2023-08-09 173923](https://github.com/BHimaja14/himafrtproject/assets/129165137/f2335fcc-0d89-4783-8024-0f7b5e7edaab)
 
