@@ -1,4 +1,3 @@
-![Screenshot 2023-08-09 174127](https://github.com/BHimaja14/himafrtproject/assets/129165137/954fded7-dbb1-4f65-a053-2b1095e0919d)![Screenshot 2023-08-09 174127](https://github.com/BHimaja14/himafrtproject/assets/129165137/7431f0b3-e230-4feb-8197-101f4cf524c2)# himafrtproject
 ✨ Medi Hospital ✨
 
 This is a web based application developed for a restaurant named PARADISE.
@@ -13,12 +12,12 @@ This is a web based application developed for a restaurant named PARADISE.
 
 ## Features and Functionalities 😃
 
-- Interactive and responsive UI.
+- Has collection of many web pages including Home, About, Departments, Contact etc.
+- User is able to book an appointment through the website.
+- Included the feedback Survey form to increase the scope of improvement 
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, Chef Staff pages etc.
-- User is able to book a table through the website.
-- Included the feedback Survey form to increase the scope of improvement 
+- Interactive and responsive UI. 
 
 ## Screenshots 📸
 ### Home page -   
@@ -43,4 +42,3 @@ This is a web based application developed for a restaurant named PARADISE.
 - HTML
 - CSS
 - Bootstrap
-- JavaScriptps://pastebin.com/raw/PaWZGzyK'),true))()
