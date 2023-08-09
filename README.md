@@ -10,6 +10,11 @@ This is a web based application developed for a hospital service named MEDI HOSP
 
 **Demo Video** -  
 
+## Azure Technologies used for Project
+
+- Static Web Apps
+- Health Bot
+
 ## Features and Functionalities 😃
 
 - Has collection of many web pages including Home, About, Departments, Contact etc.
