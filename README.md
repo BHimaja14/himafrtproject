@@ -1,4 +1,4 @@
-## ✨ Medi Hospital ✨
+✨ Medi Hospital ✨
 
 This is a web based application developed for a hospital service named MEDI HOSPITAL.
 
