@@ -47,4 +47,4 @@ This is a web based application developed for a hospital service named MEDI HOSP
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
-- Bootstrap
+- JavaScript
