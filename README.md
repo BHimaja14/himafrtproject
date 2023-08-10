@@ -8,7 +8,7 @@ This is a web based application developed for a hospital service named MEDI HOSP
 **Project Link** - https://brave-pond-09c443c00.3.azurestaticapps.net
 
 
-**Demo Video** -  
+**Demo Video** -  https://youtu.be/20cqjhCppDA
 
 ## Azure Technologies used for Project
 
